@@ -1,0 +1,13 @@
+.done {
+    text-decoration: line-through;
+}
+
+ul {
+    width: 15%;
+}
+
+li {
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+}
